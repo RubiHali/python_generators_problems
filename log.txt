@@ -1,0 +1,7 @@
+ERROR sample sample
+INFO sample sample
+ERROR sample sample
+INFO sample sample
+DEBUG sample sample
+ERROR sample sample
+INFO sample sample
